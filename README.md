@@ -19,20 +19,20 @@ Por isso, será abordada uma **solução em nuvem** que ofereça **escalabilidad
 
 ---
 
-## 📄 Relatório Completo
+## 📄 Relatório Final
 
-O relatório detalhado descrevendo todas as etapas do projeto, pode ser encontrado neste repositório:
+O relatório detalhado descrevendo todas as etapas do projeto, pode ser encontrado através do link abaixo:
 
 📎 [Clique aqui para visualizar o PDF](https://github.com/lepanegossi/MVP_PUC_Eng_Dados/blob/main/Engenharia%20de%20Dados%20-%20MVP.pdf)
 
 ---
 
 
-## 📈 Códigos Compartilhado
+## 📈 Análise Exploratória
 
-Todas as queries utilizadas na análise, podem ser consultadas neste repositório:
+Todas as queries utilizadas na análise, podem ser consultadas através do link abaixo:
 
-📎 [Clique aqui para visualizar o arquivo](x)
+📎 [Clique aqui para visualizar o arquivo](https://github.com/lepanegossi/MVP_PUC_Eng_Dados/blob/main/Engenharia%20de%20Dados%20-%20MVP.sql)
 
 ---
 
